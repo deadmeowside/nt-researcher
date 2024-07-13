@@ -1,1 +1,1 @@
-usage: researcher.exe <function name>
+usage: researcher.exe <function_name>
